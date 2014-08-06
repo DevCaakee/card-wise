@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/DevCaakee/card-wise/master/CardWise_3.0.2beta01.plist</string>
+					<string>https://github.com/DevCaakee/card-wise/blob/master/CardWise_3.0.2beta01.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
