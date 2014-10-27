@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>itms-services://?action=download-manifest&amp;url=https://raw.githubusercontent.com/DevCaakee/card-wise/master/CardWise_3.1.0beta03.plist</string>
+					<string>https://github.com/DevCaakee/card-wise/blob/master/CardWise_3.1.0beta03.ipa?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.kahui.nongxin</string>
 				<key>bundle-version</key>
-				<string>3.1.0</string>
+				<string>3.0.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
